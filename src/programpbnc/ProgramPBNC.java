@@ -15,7 +15,7 @@ public class ProgramPBNC {
         return "Daniel Parningotan Alexander Sibarani 21120119130086";
     }
     static String praktikan2(){
-        return "Satria Bimantara D 21120119130096";
+        return "Satria Bimantara Dharmawan 21120119130096";
     }
     public void pembatas(){
         System.out.println("=========================");
